@@ -1,0 +1,3 @@
+/home/bzl_zhx/code/example_code/build/CMakeFiles/rebuild_cache.dir
+/home/bzl_zhx/code/example_code/build/CMakeFiles/edit_cache.dir
+/home/bzl_zhx/code/example_code/build/CMakeFiles/Exmaple_Code_Project.dir
